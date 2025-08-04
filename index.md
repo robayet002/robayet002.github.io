@@ -96,7 +96,7 @@
              loading="lazy">
         <div>
           <h1>Mohammad Robaitul Islam Bhuiya</h1>
-          <p class="subtitle">B.Sc. in CSE || M.Sc. in Data Science </p>
+          <p class="subtitle">B.Sc. in CSE || M.Sc. in Data Science (On-going) </p>
         </div>
       </div>
       <nav aria-label="Main navigation">
@@ -117,7 +117,7 @@
         <p> I am pursuing an M.Sc. in Data Science at Friedrich-Alexander-Universität Erlangen-Nürnberg, building upon my B.Sc. from Chittagong University of Engineering and Technology. My academic and professional journey has equipped me with a robust set of skills in data analysis, machine learning, and software development.</p>
       </div>
     </section>
-
+     <section id="Education">
      <div class="Education">
     <div class="card">
       <h3>
