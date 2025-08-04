@@ -96,7 +96,7 @@
              loading="lazy">
         <div>
           <h1>Mohammad Robaitul Islam Bhuiya</h1>
-          <p class="subtitle">B.Sc. in CSE (CUET)| M.Sc. in Data Science (On-going) (FAU)</p>
+          <p class="subtitle">B.Sc. in CSE || M.Sc. in Data Science </p>
         </div>
       </div>
       <nav aria-label="Main navigation">
@@ -114,15 +114,34 @@
     <section id="about">
       <h2>About Me</h2>
       <div class="card">
-        <p>I am a graduate data science student and educator with a strong background in computer science and engineering. Currently, I am pursuing an M.Sc. in Data Science at Friedrich-Alexander-Universität Erlangen-Nürnberg, building upon my B.Sc. from Chittagong University of Engineering and Technology. My academic and professional journey has equipped me with a robust set of skills in data analysis, machine learning, and software development.</p>
+        <p> I am pursuing an M.Sc. in Data Science at Friedrich-Alexander-Universität Erlangen-Nürnberg, building upon my B.Sc. from Chittagong University of Engineering and Technology. My academic and professional journey has equipped me with a robust set of skills in data analysis, machine learning, and software development.</p>
       </div>
+    </section>
+
+     <div class="Education">
+    <div class="card">
+      <h3>
+          B.Sc. in Computer Science and Engineering
+      </h3>
+      <p>Chittagong University of Engineering and Technology</p>
+       <p>CGPA: 1.7</p>
+    </div>
+    <div class="card">
+      <h3>
+        M.Sc. in Data Science
+      </h3>
+      <p>Friedrich-Alexander University Erlangen-Nuremberg</p>
+      <p> CGPA: 2.2 (80 Ects)</p>
+    </div>
+    </div>
     </section>
 
     <section id="experience">
       <h2>Professional Experience</h2>
       <div class="card">
         <h3>Lecturer</h3>
-        <p><em>Bangladesh Army International University of Science and Technology</em> &middot; Nov 2017 – Sep 2023</p>
+        <p><em>Bangladesh Army International University of Science and Technology</em> &middot</p>
+        <p> Nov 2017 – Sep 2023</p>
         <ul>
           <li>Delivered undergraduate courses in Machine Learning, Data Structures, and DBMS.Developed lectures, assignments and supervised stdent project and research.</li>
         </ul>
