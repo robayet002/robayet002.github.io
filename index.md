@@ -95,7 +95,7 @@
              class="profile-pic"
              loading="lazy">
         <div>
-          <h1>Mohammad Robaitul Islam Bhuiya</h1>
+          <h1>Mohammad Robaitul Islam Bhuiyan</h1>
           <p class="subtitle">B.Sc. in CSE || M.Sc. in Data Science (On-going) </p>
         </div>
       </div>
@@ -266,8 +266,6 @@
         </div>
       </div>
     </section>
-
-
     <section id="skills">
       <h2>Skills</h2>
       <div class="card skills-chart">
@@ -297,7 +295,6 @@
         </div>
       </div>
     </section>
-
     <section id="contact">
       <h2>Contact</h2>
       <div class="contact-grid">
@@ -340,6 +337,4 @@
     </section>
 
     <footer>&copy; 2025 Mohammad Robaitul Islam Bhuiyan</footer>
-  </div>
-</body>
-</html>
+  
