@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Portfolio of Mohammad Robaitul Islam Bhuiyan –Showcasing professional experience, projects, publications, certificates, and skills.">
-  <title>Mohammad Robaitul Islam Bhuiyan – Portfolio</title>
+  <title></title>
 
   <!-- Favicon -->
   <link rel="icon" href="favicon.ico">
@@ -95,8 +95,8 @@
              class="profile-pic"
              loading="lazy">
         <div>
-          <h1>Mohammad Robaitul Islam Bhuiyan</h1>
-          <p class="subtitle">Data Scientist & Lecturer</p>
+          <h1>Mohammad Robaitul Islam Bhuiya</h1>
+          <p class="subtitle">B.Sc. in CSE (CUET)| M.Sc. in Data Science (On-going) (FAU)</p>
         </div>
       </div>
       <nav aria-label="Main navigation">
@@ -124,13 +124,14 @@
         <h3>Lecturer</h3>
         <p><em>Bangladesh Army International University of Science and Technology</em> &middot; Nov 2017 – Sep 2023</p>
         <ul>
-          <li>Delivered undergraduate courses in Machine Learning, Data Structures, and DBMS.Developed lectures, assignments, and exams; supervised 5+ student research projects.</li>
+          <li>Delivered undergraduate courses in Machine Learning, Data Structures, and DBMS.Developed lectures, assignments and supervised stdent project and research.</li>
         </ul>
       </div>
     </section>
 
     <section id="projects">
       <h2>Selected Projects</h2>
+      
   <div class="projects">
     <div class="card">
       <h3>
