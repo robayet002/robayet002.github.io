@@ -133,24 +133,19 @@
       <p>Friedrich-Alexander University Erlangen-Nuremberg</p>
       <p> CGPA: 2.2 (80 Ects)</p>
     </div>
-    </div>
     </section>
-
     <section id="experience">
       <h2>Professional Experience</h2>
       <div class="card">
         <h3>Lecturer</h3>
-        <p><em>Bangladesh Army International University of Science and Technology</p>
-        <p> Nov 2017 – Sep 2023</p>
+        <p>Bangladesh Army International University of Science and Technology</p>
         <ul>
           <li>Delivered undergraduate courses in Machine Learning, Data Structures, and DBMS.Developed lectures, assignments and supervised stdent project and research.</li>
         </ul>
       </div>
     </section>
-
     <section id="projects">
       <h2>Selected Projects</h2>
-      
   <div class="projects">
     <div class="card">
       <h3>
@@ -210,7 +205,6 @@
     </div>
   </div>
     </section>
-
     <section id="publications">
       <h2>Publications</h2>
       <div class="card">
