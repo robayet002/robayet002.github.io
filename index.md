@@ -284,15 +284,15 @@
         </div>
         <div class="skill">
           <span>Power BI</span>
-          <div class="bar"><div class="progress" style="width: 85%;"></div></div>
+          <div class="bar"><div class="progress" style="width: 90%;"></div></div>
         </div>
         <div class="skill">
           <span>MS SQL & MS Access</span>
-          <div class="bar"><div class="progress" style="width: 70%;"></div></div>
+          <div class="bar"><div class="progress" style="width: 85%;"></div></div>
         </div>
         <div class="skill">
           <span>LaTeX & Office 365</span>
-          <div class="bar"><div class="progress" style="width: 80%;"></div></div>
+          <div class="bar"><div class="progress" style="width: 90%;"></div></div>
         </div>
       </div>
     </section>
