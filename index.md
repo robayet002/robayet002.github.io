@@ -101,6 +101,7 @@
       </div>
       <nav aria-label="Main navigation">
         <a href="#about">About</a>
+        <a href="#education">Education</a>
         <a href="#experience">Experience</a>
         <a href="#projects">Projects</a>
         <a href="#publications">Publications</a>
@@ -121,14 +122,14 @@
        <h2>Education</h2>
     <div class="card">
       <h3>
-          B.Sc. in Computer Science and Engineering
+         <b> B.Sc. in Computer Science and Engineering </b>
       </h3>
       <p>Chittagong University of Engineering and Technology</p>
        <p>CGPA: 1.7</p>
     </div>
     <div class="card">
       <h3>
-        M.Sc. in Data Science
+       <b>M.Sc. in Data Science (2023- present)</b>
       </h3>
       <p>Friedrich-Alexander University Erlangen-Nuremberg</p>
       <p> CGPA: 2.2 (80 Ects)</p>
@@ -137,7 +138,7 @@
     <section id="experience">
       <h2>Professional Experience</h2>
       <div class="card">
-        <h3>Lecturer</h3>
+        <h3><b>Lecturer</b></h3>
         <p>Bangladesh Army International University of Science and Technology</p>
         <ul>
           <li>Delivered undergraduate courses in Machine Learning, Data Structures, and DBMS.Developed lectures, assignments and supervised stdent project and research.</li>
@@ -335,6 +336,4 @@
         </div>
       </div>
     </section>
-
     <footer>&copy; 2025 Mohammad Robaitul Islam Bhuiyan</footer>
-  
