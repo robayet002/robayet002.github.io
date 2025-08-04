@@ -1,16 +1,16 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Portfolio of Mohammad Robaitul Islam Bhuiyan – Data Scientist & Lecturer. Showcasing professional experience, projects, publications, certificates, and skills.">
+  <meta name="description" content="Portfolio of Mohammad Robaitul Islam Bhuiyan –Showcasing professional experience, projects, publications, certificates, and skills.">
   <title>Mohammad Robaitul Islam Bhuiyan – Portfolio</title>
 
   <!-- Favicon -->
   <link rel="icon" href="favicon.ico">
 
   <!-- Open Graph / Twitter Card -->
-  <meta property="og:title" content="Mohammad Robaitul Islam Bhuiyan – Data Scientist & Lecturer">
+  <meta property="og:title" content="Mohammad Robaitul Islam Bhuiyan – B.Sc. in CSE | M.Sc. in Data Science(On-going)">
   <meta property="og:description" content="Explore my portfolio: experience, projects, publications, certificates, and skills.">
   <meta property="og:image" content="https://robayet002.github.io/image/profile-pic.jpg">
   <meta property="og:url" content="https://robayet002.github.io/">
@@ -114,7 +114,7 @@
     <section id="about">
       <h2>About Me</h2>
       <div class="card">
-        <p>M.Sc. Data Science student at FAU Erlangen-Nürnberg (since Oct 2023). B.Sc. in CSE from CUET (2017). Passionate about machine learning, data analysis, and teaching. Published multiple research articles and guided student projects.</p>
+        <p>I am a graduate data science student and educator with a strong background in computer science and engineering. Currently, I am pursuing an M.Sc. in Data Science at Friedrich-Alexander-Universität Erlangen-Nürnberg, building upon my B.Sc. from Chittagong University of Engineering and Technology. My academic and professional journey has equipped me with a robust set of skills in data analysis, machine learning, and software development.</p>
       </div>
     </section>
 
@@ -124,9 +124,7 @@
         <h3>Lecturer</h3>
         <p><em>Bangladesh Army International University of Science and Technology</em> &middot; Nov 2017 – Sep 2023</p>
         <ul>
-          <li>Delivered undergraduate courses in Machine Learning, Data Structures, and DBMS.</li>
-          <li>Developed lectures, assignments, and exams; supervised 5+ student research projects.</li>
-          <li>Published 3 high-impact papers in ML and Data Science.</li>
+          <li>Delivered undergraduate courses in Machine Learning, Data Structures, and DBMS.Developed lectures, assignments, and exams; supervised 5+ student research projects.</li>
         </ul>
       </div>
     </section>
