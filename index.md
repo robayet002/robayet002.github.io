@@ -118,7 +118,7 @@
         <p> I am pursuing an M.Sc. in Data Science at Friedrich-Alexander-Universität Erlangen-Nürnberg, building upon my B.Sc. from Chittagong University of Engineering and Technology. My academic and professional journey has equipped me with a robust set of skills in data analysis, machine learning, and software development.</p>
       </div>
     </section>
-     <section id="Education">
+     <section id="education">
        <h2>Education</h2>
     <div class="card">
       <h3>
