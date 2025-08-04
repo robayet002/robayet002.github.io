@@ -118,7 +118,7 @@
       </div>
     </section>
      <section id="Education">
-     <div class="Education">
+       <h2>Education</h2>
     <div class="card">
       <h3>
           B.Sc. in Computer Science and Engineering
@@ -140,7 +140,7 @@
       <h2>Professional Experience</h2>
       <div class="card">
         <h3>Lecturer</h3>
-        <p><em>Bangladesh Army International University of Science and Technology</em> &middot</p>
+        <p><em>Bangladesh Army International University of Science and Technology</p>
         <p> Nov 2017 – Sep 2023</p>
         <ul>
           <li>Delivered undergraduate courses in Machine Learning, Data Structures, and DBMS.Developed lectures, assignments and supervised stdent project and research.</li>
