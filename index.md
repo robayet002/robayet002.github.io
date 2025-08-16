@@ -132,7 +132,7 @@
        <b>M.Sc. in Data Science (2023- present)</b>
       </h3>
       <p>Friedrich-Alexander University Erlangen-Nuremberg</p>
-      <p> CGPA: 2.2 (80 Ects)</p>
+      <p> CGPA: 2.2 (90 Ects)</p>
     </div>
     </section>
     <section id="experience">
