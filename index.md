@@ -389,12 +389,12 @@
 
     <section id="more">
       <h2>Awards, Service &amp; Languages</h2>
-      <div class="card">
-        <h3><i class="fas fa-award"></i> Awards &amp; Fellowships</h3>
-        <ul>
-          <li>Science and Technology Fellowship, Government of Bangladesh (2023–2025)</li>
-        </ul>
-      </div>
+       <div class="card">
+    <h3><i class="fas fa-award"></i> Awards &amp; Fellowships</h3>
+    <ul>
+      <li>Science and Technology Fellowship, Government of Bangladesh (2023–2025) – <a href="https://drive.google.com/file/d/1igRfPLW02UFYNpJ996bq4AYhskpsClB6/view?usp=sharing" target="_blank" rel="noopener">View certificate</a></li>
+    </ul>
+    </div>
       <div class="card">
         <h3><i class="fas fa-users"></i> Service &amp; Leadership</h3>
         <ul>
