@@ -173,7 +173,7 @@
         <p><strong>M. R. I. Bhuiyan</strong>, S. Bhat et al.</p>
         <p><em>Medical Image Computing and Computer Assisted Intervention – MICCAI 2026 Workshops and Challenges, LNCS vol. 17261, Springer Nature Switzerland &middot; 2026</em></p>
         <p><strong>Summary:</strong> An efficient framework that converts radiologist dictation into tumor class cues and uses them to drive detection-to-segmentation of brain tumors in MRI with medical foundation models, using LoRA-based parameter-efficient fine-tuning.</p>
-        <p><a href="https://papers.miccai.org/miccai2026-sat/MI4MedFM_024" target="_blank" rel="noopener">Read paper</a></p>
+        <p><a href="https://papers.miccai.org/miccai-2026-sat/MI4MedFM_024.html" target="_blank" rel="noopener">Read paper</a></p>
       </div>
       <div class="card">
         <h3>A Secured Blockchain Based Integrated Framework for National Identity and Passport</h3>
@@ -227,12 +227,13 @@
       <h2>Selected Projects</h2>
       <div class="projects">
         <div class="card">
-          <h3>LoGSAM Implementation</h3>
+          <h3> <a href="https://github.com/robayet002/LoGSAM" target="_blank" rel="noopener">
+              LoGSAM implementation</h3>
           <p>Official implementation of LoGSAM, an efficient framework that converts radiologist dictation into tumor class cues and uses them to drive detection-to-segmentation with foundation models.</p>
           <p class="tech">PyTorch · mmdetection · MONAI</p>
         </div>
         <div class="card">
-          <h3>Seeding QDArchive</h3>
+          <h3><a href="https://github.com/robayet002/Seeding-QDArchive" target="_blank" rel="noopener">Seeding QDArchive</h3>
           <p>A research tool that discovers, downloads, and catalogues Qualitative Data Analysis (QDA) project files from target repositories.</p>
         </div>
         <div class="card">
