@@ -227,8 +227,7 @@
       <h2>Selected Projects</h2>
       <div class="projects">
         <div class="card">
-          <h3> <a href="https://github.com/robayet002/LoGSAM" target="_blank" rel="noopener">
-              LoGSAM implementation</h3>
+          <h3> <a href="https://github.com/robayet002/LoGSAM" target="_blank" rel="noopener">LoGSAM implementation</h3>
           <p>Official implementation of LoGSAM, an efficient framework that converts radiologist dictation into tumor class cues and uses them to drive detection-to-segmentation with foundation models.</p>
           <p class="tech">PyTorch · mmdetection · MONAI</p>
         </div>
