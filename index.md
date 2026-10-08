@@ -140,7 +140,6 @@
           <span>Erlangen, Germany</span>
         </div>
         <p>Grade: <strong>1.8</strong> (German scale)</p>
-        <p>Master's thesis at the Pattern Recognition Lab: <em>LoGSAM</em> – parameter-efficient cross-modal grounding for MRI segmentation.</p>
       </div>
       <div class="card">
         <h3>B.Sc. in Computer Science and Engineering</h3>
