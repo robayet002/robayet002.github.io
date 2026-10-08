@@ -126,7 +126,7 @@
     <section id="about">
       <h2>About Me</h2>
       <div class="card">
-        <p>I am a graduate researcher in medical image analysis and multimodal clinical AI. I completed my M.Sc. in Data Science at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), where I carried out my Master's thesis at the Pattern Recognition Lab on speech-driven brain-tumor segmentation with medical foundation models. Before that, I earned my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET) and taught as a lecturer for two years.</p>
+        <p>I am a graduate researcher in medical image analysis and multimodal clinical AI. I completed my M.Sc. in Data Science at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), where I carried out my Master's thesis at the Pattern Recognition Lab on speech-driven brain-tumor segmentation with medical foundation models. Before that, I earned my B.Sc. in Computer Science and Engineering from Chittagong University of Engineering and Technology (CUET) and have experience of working as Teaching assistant at FAU and  as a lecturer in Bangladesh.</p>
         <p style="margin-top:0.75rem;">I am seeking a Ph.D. position on adapting and evaluating foundation models for healthcare, with a focus on vision-language models, large language models, and clinical AI agents.</p>
       </div>
     </section>
