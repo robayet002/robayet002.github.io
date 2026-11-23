@@ -407,7 +407,7 @@ layout: null
       <div class="card">
         <h3><i class="fas fa-language"></i> Languages</h3>
         <ul>
-          <li>English — C1 (IELTS 7.0)</li>
+          <li>English — C1 (IELTS 7.5)</li>
         </ul>
       </div>
     </section>
